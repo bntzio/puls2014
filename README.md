@@ -1,6 +1,5 @@
-Puls2014-America
-================
+# Puls2014-America
 
-Clase de diseño web online. America. 2014 1a gen
+> Site created in the Platzi web design course to learn html and css
 
-hola
+![](https://cl.ly/270W0o2i011I/screencapture-file-Users-hbendev-code-puls2014-index-html-1487277156440.png)
